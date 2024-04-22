@@ -25,6 +25,8 @@ This project implements an IoT-based system for automatically controlling fan sp
 
 - Arduino IDE or a platform-specific development environment
 
+## Architecture 
+<img src="https://github.com/AmruthaRajsheker/IoT-Temperature-Based-Automatic-Fan-Speed-Control-and-Monitoring-System/assets/119475943/29b9af3b-c0ce-4e2f-ab20-4dc319212c7e" alt="description" style="width: 50%; height: auto;">
 
 ## Experiment Overview
 
@@ -70,7 +72,22 @@ This project implements an IoT-based system for automatically controlling fan sp
 2. **Fine-Tuning**: Fine-tune the system by modifying the code and hardware connections as necessary.
 3. **Documentation**: Document findings, adjustments, and encountered issues for future reference.
 
-## Contributors
+
+
+## Circuit diagram 
+<img src="https://github.com/AmruthaRajsheker/IoT-Temperature-Based-Automatic-Fan-Speed-Control-and-Monitoring-System/assets/119475943/25b11e17-641a-4e0c-a9e9-a80584c021aa" alt="description" style="width: 50%; height: auto;">
+
+## Circuit Setup 
+<img src="https://github.com/AmruthaRajsheker/IoT-Temperature-Based-Automatic-Fan-Speed-Control-and-Monitoring-System/assets/119475943/5812c01e-04ec-48f3-8415-74d9f1567e55" alt="description" style="width: 50%; height: auto;">
+
+## Output 
+
+### prototype
+<img src="https://github.com/AmruthaRajsheker/IoT-Temperature-Based-Automatic-Fan-Speed-Control-and-Monitoring-System/assets/119475943/c1c5a9be-ef54-4b04-9252-3024c7bd2d19" alt="description" style="width: 50%; height: auto;">
+
+### serial monitor
+<img src="https://github.com/AmruthaRajsheker/IoT-Temperature-Based-Automatic-Fan-Speed-Control-and-Monitoring-System/assets/119475943/4ebcaa4c-f04f-4a8c-a121-f748fa7e7c37" alt="description" style="width: 50%; height: auto;">
+
 
 ## License
 
