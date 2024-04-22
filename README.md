@@ -16,11 +16,10 @@ This project implements an IoT-based system for automatically controlling fan sp
 
 - Arduino Uno
 - DHT11 sensor
-- Separate analog temperature sensor
 - 12V cooling fan
 - 9V battery
 - Jumper wires
-- USB cable for Arduino
+- USB cable 
 
 ## Software Requirements
 
